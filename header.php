@@ -1,5 +1,5 @@
+<?php include 'root/process.php'; ?>
 <!doctype html>
-
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -72,7 +72,7 @@
           <div class="row">
             <div class="col-md-3">
               <div class="main-logo" style="margin: 10px 0;">
-                <a href="index.php"
+                <a href="<?= SITE_URL;?>"
                   ><img alt="" src="images/mlo-wa-watoto/mlo-wa-toto-p.png" style="height: 70px;"  
                 /></a>
               </div>
@@ -82,7 +82,7 @@
               <nav class="defaultmainmenu" id="main_menu">
                 <ul class="defaultmainmenu-menu">
                   <li>
-                    <a href="index.php">Home</a>
+                    <a href="<?= SITE_URL;?>">Home</a>
                   </li>
 
                   <li class="active">
@@ -90,52 +90,52 @@
 
                     <ul class="dropdown">
                       <li>
-                        <a href="about.php">About US</a>
+                        <a href="about">About US</a>
                       </li>
 
                       <li>
-                        <a href="volunteer.php">Join as Volunteer</a>
+                        <a href="volunteer">Join as Volunteer</a>
                       </li>
 
                       <li>
-                        <a href="faq.php">FAQ's</a>
+                        <a href="faq">FAQ's</a>
                       </li>
 
                       <li>
-                        <a href="testimonial.php">Testimonials</a>
+                        <a href="testimonial">Testimonials</a>
                       </li>
 
                       <li>
-                        <a href="contact.php">Contact Us</a>
-                      </li>
-                    </ul>
-                  </li>
-
-                  <li>
-                    <a href="cause.php">Causes</a>
-
-                    <ul class="dropdown">
-
-                      <li>
-                        <a href="single-cause.php">Single Causes</a>
+                        <a href="contact">Contact Us</a>
                       </li>
                     </ul>
                   </li>
 
                   <li>
-                    <a href="event.php">Events</a>
+                    <a href="cause">Causes</a>
+
+                    <ul class="dropdown">
+
+                      <li>
+                        <a href="single-cause">Single Causes</a>
+                      </li>
+                    </ul>
                   </li>
 
                   <li>
-                    <a href="gallery.php">Gallery</a>
+                    <a href="event">Events</a>
                   </li>
 
                   <li>
-                    <a href="shop.php">Shop</a>
+                    <a href="gallery">Gallery</a>
+                  </li>
+
+                  <li>
+                    <a href="shop">Shop</a>
 
                     <ul class="dropdown">
                       <li>
-                        <a href="Shop-cart.php">Shopping Cart</a>
+                        <a href="Shop-cart">Shopping Cart</a>
                       </li>
                       <!-- <li>
                         <a href="account.php">My Account</a>
@@ -144,7 +144,7 @@
                   </li>
 
                   <li>
-                    <a href="blog.php">blog</a>
+                    <a href="blog">blog</a>
                   </li>
 
                   <li>
