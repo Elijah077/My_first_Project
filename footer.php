@@ -6,7 +6,6 @@
   <div class="widgets-section">
     <div class="container">
       <div class="row">
-
         <!-- Big Column Left -->
         <article class="big-column col-md-6 col-sm-12 col-xs-12">
           <div class="row clearfix">
@@ -113,7 +112,7 @@
     </div>
   </div>
 
-<!-- Footer Bottom -->
+  <!-- Footer Bottom -->
   <div class="footer-bottom text-center">
       <div class="container">
         <p>&copy; 2026 Mlo Wa Watoto Foundation. All Rights Reserved. Designed with ❤️ to fight child malnutrition.</p>

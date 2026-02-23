@@ -90,7 +90,7 @@
 
                     <ul class="dropdown">
                       <li>
-                        <a href="about.php">About humanity</a>
+                        <a href="about.php">About US</a>
                       </li>
 
                       <li>

@@ -9,7 +9,7 @@
                 data-bgfit="cover"
                 data-bgparallax="1"
                 data-bgposition="top center"
-                data-bgrepeat="no-repeat"
+                data-bgrepeat="no-repeat" 
                 height="888"
                 src="images/slider/1.jpg"
                 width="1920"
@@ -271,7 +271,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12">
               <div class="single-item">
                 <div class="img-box">
-                  <img alt="" src="images/resource/about1.jpg" />
+                  <img alt="" src="images/mlo-wa-watoto/F_empowerment.png" />
                 </div>
 
                 <div class="content">
@@ -298,7 +298,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12">
               <div class="single-item">
                 <div class="img-box">
-                  <img alt="" src="images/resource/about2.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/_S_Accessibility.png" />
                 </div>
 
                 <div class="content">
@@ -325,7 +325,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12">
               <div class="single-item">
                 <div class="img-box">
-                  <img alt="" src="images/resource/about3.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/C_Resilience.png" />
                 </div>
 
                 <div class="content">
@@ -371,7 +371,7 @@
           <div class="row">
             <article class="item col-md-4 col-sm-6 col-xs-12">
               <figure class="img-box">
-                <img alt="" src="images/cause/1.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/N_Screening.png" />
 
                 <div class="overlay">
                   <div class="inner-box">
@@ -417,7 +417,7 @@
 
             <article class="item col-md-4 col-sm-6 col-xs-12">
               <figure class="img-box">
-                <img alt="" src="images/cause/2.jpg" />
+              <img alt="" src="images/mlo-wa-watoto//Cg_Training.png" />
 
                 <div class="overlay">
                   <div class="inner-box">
@@ -463,7 +463,7 @@
 
             <article class="item col-md-4 col-sm-6 col-xs-12">
               <figure class="img-box">
-                <img alt="" src="images/cause/3.jpg" />
+              <img alt="" src="images/mlo-wa-watoto/D_Nutrition_Access.png" />
 
                 <div class="overlay">
                   <div class="inner-box">
@@ -521,7 +521,7 @@
               <div class="row padd-bottom-30">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                   <div class="img-box">
-                    <img alt="" src="images/resource/about4.jpg" />
+                    <img alt="" src="images/mlo-wa-watoto/P_malnutrition.png" />
                   </div>
                 </div>
 
@@ -537,7 +537,7 @@
               <div class="row padd-bottom-30">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                   <div class="img-box">
-                    <img alt="" src="images/resource/about5.jpg" />
+                    <img alt="" src="images/mlo-wa-watoto/Communication.png" />
                   </div>
                 </div>
 
@@ -606,7 +606,7 @@
             <article class="item col-md-3 col-sm-6 col-xs-12">
               <div class="inner-box">
                 <div class="img-box">
-                  <img alt="" src="images/team/team1.jpg" />
+                  <img alt="" src="images/mlo-wa-watoto/L_vol-1.png" />
 
                   <div class="overlay3">
                     <ul class="social-icon">
@@ -627,7 +627,7 @@
             <article class="item col-md-3 col-sm-6 col-xs-12">
               <div class="inner-box">
                 <div class="img-box">
-                  <img alt="" src="images/team/team2.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/L_vol-2.png" />
 
                   <div class="overlay3">
                     <ul class="social-icon">
@@ -648,7 +648,7 @@
             <article class="item col-md-3 col-sm-6 col-xs-12">
               <div class="inner-box">
                 <div class="img-box">
-                  <img alt="" src="images/team/team3.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/M_vol-1.png" />
 
                   <div class="overlay3">
                     <ul class="social-icon">
@@ -669,7 +669,7 @@
             <article class="item col-md-3 col-sm-6 col-xs-12">
               <div class="inner-box">
                 <div class="img-box">
-                  <img alt="" src="images/team/team4.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/M_vol-2.png" />
 
                   <div class="overlay3">
                     <ul class="social-icon">
@@ -682,7 +682,7 @@
               </div>
 
               <div class="author center">
-                <h4>Grace Namutebi</h4>
+                <h4>Mutebi Noah</h4>
                 <p>Child Nutrition Specialist</p>
               </div>
             </article>
@@ -699,13 +699,13 @@
           <div class="gallery-carousel">
             <article class="item">
               <div class="inner-box">
-                <img alt="" src="images/resource/3.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/Nutrition_Camps.png" />
 
                 <div class="overlay">
                   <div class="top">
                     <div class="box">
                       <div class="content">
-                        <a class="img-popup thm-btn" data-group="1" href="images/resource/3.jpg">view project</a>
+                        <a class="img-popup thm-btn" data-group="1" href="images/mlo-wa-watoto/Nutrition_Camps.png">view project</a>
                       </div>
                     </div>
                   </div>
@@ -721,13 +721,13 @@
 
             <article class="item">
               <div class="inner-box">
-                <img alt="" src="images/resource/4.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/School_Feeding.png" />
 
                 <div class="overlay">
                   <div class="top">
                     <div class="box">
                       <div class="content">
-                        <a class="img-popup thm-btn" data-group="1" href="images/resource/4.jpg">view project</a>
+                        <a class="img-popup thm-btn" data-group="1" href="images/mlo-wa-watoto/School_Feeding.png">view project</a>
                       </div>
                     </div>
                   </div>
@@ -743,13 +743,13 @@
 
             <article class="item">
               <div class="inner-box">
-                <img alt="" src="images/resource/5.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/Health_Education.png" />
 
                 <div class="overlay">
                   <div class="top">
                     <div class="box">
                       <div class="content">
-                        <a class="img-popup thm-btn" data-group="1" href="images/resource/5.jpg">view project</a>
+                        <a class="img-popup thm-btn" data-group="1" href="images/mlo-wa-watoto/Health_Education.png">view project</a>
                       </div>
                     </div>
                   </div>
@@ -765,13 +765,13 @@
 
             <article class="item">
               <div class="inner-box">
-                <img alt="" src="images/resource/3.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/Clean_Water.png" />
 
                 <div class="overlay">
                   <div class="top">
                     <div class="box">
                       <div class="content">
-                        <a class="img-popup thm-btn" data-group="1" href="images/resource/3.jpg">view project</a>
+                        <a class="img-popup thm-btn" data-group="1" href="images/mlo-wa-watoto/Clean_Water.png">view project</a>
                       </div>
                     </div>
                   </div>
@@ -787,13 +787,13 @@
 
             <article class="item">
               <div class="inner-box">
-                <img alt="" src="images/resource/4.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/N_Workshop.png" />
 
                 <div class="overlay">
                   <div class="top">
                     <div class="box">
                       <div class="content">
-                        <a class="img-popup thm-btn" data-group="1" href="images/resource/4.jpg">view project</a>
+                        <a class="img-popup thm-btn" data-group="1" href="images/mlo-wa-watoto/N_Workshop.png">view project</a>
                       </div>
                     </div>
                   </div>
@@ -809,13 +809,13 @@
 
             <article class="item">
               <div class="inner-box">
-                <img alt="" src="images/resource/5.jpg" />
+                <img alt="" src="images/mlo-wa-watoto/v_health_Outreach.png" />
 
                 <div class="overlay">
                   <div class="top">
                     <div class="box">
                       <div class="content">
-                        <a class="img-popup thm-btn" data-group="1" href="images/resource/5.jpg">view project</a>
+                        <a class="img-popup thm-btn" data-group="1" href="images/mlo-wa-watoto/v_health_Outreach.png">view project</a>
                       </div>
                     </div>
                   </div>
@@ -1038,7 +1038,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12">
               <div class="default-blog-news">
                 <figure class="img-holder">
-                  <a href="blog-details.html"><img alt="Nutrition Workshop" src="images/blog/1.jpg" /></a>
+                  <a href="blog-details.html"><img alt="Nutrition Workshop" src="images/mlo-wa-watoto/N_Workshop.png" /></a>
                   <div class="inner-box"></div>
                 </figure>
 
@@ -1048,7 +1048,7 @@
                     <div class="content">
                       <div class="post-meta">Feb 10, 2026 | 5 Comments</div>
                       <a href="blog-details.html">
-                        <h4>Nutrition Workshop Empowers Mothers</h4>
+                        <h4>Nutrition Transforms Mothers</h4>
                       </a>
                       <div class="text">
                         <p>
@@ -1064,7 +1064,7 @@
                   <div class="category">Awareness</div>
                   <div class="content">
                     <div class="post-meta">Feb 10, 2026 | 5 Comments</div>
-                    <a href="blog-details.html"><h4>Nutrition Workshop Empowers Mothers</h4></a>
+                    <a href="blog-details.html"><h4>Nutrition Transforms Mothers</h4></a>
                   </div>
                 </div>
               </div>
@@ -1074,7 +1074,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12">
               <div class="default-blog-news">
                 <figure class="img-holder">
-                  <a href="blog-details.html"><img alt="Community Feeding" src="images/blog/2.jpg" /></a>
+                  <a href="blog-details.html"><img alt="Community Feeding" src="images/mlo-wa-watoto/Rural_communities.png" /></a>
                   <div class="inner-box"></div>
                 </figure>
 
@@ -1084,7 +1084,7 @@
                     <div class="content">
                       <div class="post-meta">Feb 05, 2026 | 3 Comments</div>
                       <a href="blog-details.html">
-                        <h4>Remote Villages Receive Feeding Support</h4>
+                        <h4>Rural Communities Nourished</h4>
                       </a>
                       <div class="text">
                         <p>
@@ -1101,7 +1101,7 @@
                   <div class="category">Community</div>
                   <div class="content">
                     <div class="post-meta">Feb 05, 2026 | 3 Comments</div>
-                    <a href="blog-details.html"><h4>Remote Villages Receive Feeding Support</h4></a>
+                    <a href="blog-details.html"><h4>Rural Communities Nourished</h4></a>
                   </div>
                 </div>
               </div>
@@ -1111,7 +1111,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12">
               <div class="default-blog-news">
                 <figure class="img-holder">
-                  <a href="blog-details.html"><img alt="Volunteer Impact" src="images/blog/3.jpg" /></a>
+                  <a href="blog-details.html"><img alt="Volunteer Impact" src="images/mlo-wa-watoto/V_Transform.png" /></a>
                   <div class="inner-box"></div>
                 </figure>
 
@@ -1121,7 +1121,7 @@
                     <div class="content">
                       <div class="post-meta">Jan 28, 2026 | 4 Comments</div>
                       <a href="blog-details.html">
-                        <h4>Volunteers Transform Child Nutrition</h4>
+                        <h4>Volunteers Boost Child Nutrition</h4>
                       </a>
                       <div class="text">
                         <p>
@@ -1137,7 +1137,7 @@
                   <div class="category">Volunteering</div>
                   <div class="content">
                     <div class="post-meta">Jan 28, 2026 | 4 Comments</div>
-                    <a href="blog-details.html"><h4>Volunteers Transform Child Nutrition</h4></a>
+                    <a href="blog-details.html"><h4>Volunteers Boost Child Nutrition</h4></a>
                   </div>
                 </div>
               </div>
