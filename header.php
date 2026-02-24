@@ -132,15 +132,6 @@
 
                   <li>
                     <a href="shop">Shop</a>
-
-                    <ul class="dropdown">
-                      <li>
-                        <a href="Shop-cart">Shopping Cart</a>
-                      </li>
-                      <!-- <li>
-                        <a href="account.php">My Account</a>
-                      </li> -->
-                    </ul>
                   </li>
 
                   <li>

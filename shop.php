@@ -77,10 +77,10 @@
                     <div class="best-selling-area">
                         <div class="best_selling_item clearfix border">
                             <div class="img_holder float_left">
-                                <a href="shop-single.html"><img src="images/shop/11.jpg" alt="Child Nutrition Book"></a>
+                                <a href="Shop-cart.php"><img src="images/shop/11.jpg" alt="Child Nutrition Book"></a>
                             </div>
                             <div class="text float_left">
-                                <a href="shop-single.html"><h4>Child Nutrition Guide</h4></a>
+                                <a href="Shop-cart.php"><h4>Child Nutrition Guide</h4></a>
                                 <span>$15.00</span>
                                 <ul>
                                     <li><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -94,10 +94,10 @@
 
                         <div class="best_selling_item clearfix border">
                             <div class="img_holder float_left">
-                                <a href="shop-single.html"><img src="images/shop/12.jpg" alt="Educational Kit"></a>
+                                <a href="Shop-cart.php"><img src="images/shop/12.jpg" alt="Educational Kit"></a>
                             </div>
                             <div class="text float_left">
-                                <a href="shop-single.html"><h4>Learning Kit for Children</h4></a>
+                                <a href="Shop-cart.php"><h4>Learning Kit for Children</h4></a>
                                 <span>$25.00</span>
                                 <ul>
                                     <li><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -111,10 +111,10 @@
 
                         <div class="best_selling_item clearfix">
                             <div class="img_holder float_left">
-                                <a href="shop-single.html"><img src="images/shop/13.jpg" alt="Donation Pack"></a>
+                                <a href="Shop-cart.php"><img src="images/shop/13.jpg" alt="Donation Pack"></a>
                             </div>
                             <div class="text float_left">
-                                <a href="shop-single.html"><h4>Donation Pack for Children</h4></a>
+                                <a href="Shop-cart.php"><h4>Donation Pack for Children</h4></a>
                                 <span>$10.00</span>
                                 <ul>
                                     <li><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -156,7 +156,7 @@
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
-                                        <a href="shop-single.html" class="thm-btn">add to cart</a>
+                                        <a href="Shop-cart.php" class="thm-btn">add to cart</a>
                                     </div>
                                 </div>
                             </div>
@@ -184,7 +184,7 @@
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
-                                        <a href="shop-single.html" class="thm-btn">add to cart</a>
+                                        <a href="Shop-cart.php" class="thm-btn">add to cart</a>
                                     </div>
                                 </div>
                             </div>
@@ -212,7 +212,7 @@
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
-                                        <a href="shop-single.html" class="thm-btn">add to cart</a>
+                                        <a href="Shop-cart.php" class="thm-btn">add to cart</a>
                                     </div>
                                 </div>
                             </div>

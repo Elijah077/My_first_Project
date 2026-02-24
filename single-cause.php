@@ -38,7 +38,7 @@
             <div class="cause-area urgent-cause2 single-cause cause-list-bg sec-padd">
                 <articel class="item clearfix">
                     <figure class="img-box">
-                        <img src="images/cause/18.jpg" alt="Nutrition Support for Families">                       
+                        <img src="images/mlo-wa-watoto/lifesaving.png" alt="Nutrition Support for Families">                       
                     </figure>
                     
                     <div class="content">
@@ -94,33 +94,34 @@
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-6">
                             <div class="img-box">
-                                <img src="images/cause/t1.jpg" alt="Donor Mark">
+                                <img src="images/mlo-wa-watoto/Donor-3.png" alt="Donor Felicity">
                                 <div class="caption">
-                                    <h5>Mark Richarson <br> $1,600</h5>
+                                    <h5>Joseph Wasswa <br> $1000</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
                             <div class="img-box">
-                                <img src="images/cause/t2.jpg" alt="Donor Robert">
+                                <img src="images/mlo-wa-watoto/Donor-1.png" alt="Donor Mark">
                                 <div class="caption">
-                                    <h5>Robert William <br> $1,400</h5>
+                                    <h5>Sarah Namusoke <br> $1,000</h5>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <div class="img-box">
+                                <img src="images/mlo-wa-watoto/Donor-4.png" alt="Donor Robert">
+                                <div class="caption">
+                                    <h5>Andrew Byaruhanga <br> $750</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
                             <div class="img-box">
-                                <img src="images/cause/t3.jpg" alt="Donor Felicity">
+                                <img src="images/mlo-wa-watoto/Donor-2.png" alt="Donor Robert">
                                 <div class="caption">
-                                    <h5>Felicity BNovak <br> $1,200</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-3 col-xs-6">
-                            <div class="img-box">
-                                <img src="images/cause/t4.jpg" alt="Donor Robert">
-                                <div class="caption">
-                                    <h5>Robert William <br> $1,300</h5>
+                                    <h5>Margaret Atim<br> $900</h5>
                                 </div>
                             </div>
                         </div>
@@ -220,17 +221,17 @@
 
                     <div class="popular-post">
                         <div class="item">
-                            <div class="post-thumb"><a href="#"><img src="images/blog/thumb6.jpg" alt=""></a></div>
+                            <div class="post-thumb"><a href="#"><img src="images/mlo-wa-watoto/Donor-1.png" alt=""></a></div>
                             <a href="#"><h4>Nutrition Training Empowers Rural Moms</h4></a>
                             <div class="post-info"><i class="fa fa-calendar"></i>Feb 12, 2026</div>
                         </div>
                         <div class="item">
-                            <div class="post-thumb"><a href="#"><img src="images/blog/thumb7.jpg" alt=""></a></div>
+                            <div class="post-thumb"><a href="#"><img src="images/mlo-wa-watoto/Donor-2.png" alt=""></a></div>
                             <a href="#"><h4>SMS Guidance: Reaching the Unconnected</h4></a>
                             <div class="post-info"><i class="fa fa-calendar"></i>Mar 05, 2026</div>
                         </div>
                         <div class="item">
-                            <div class="post-thumb"><a href="#"><img src="images/blog/thumb8.jpg" alt=""></a></div>
+                            <div class="post-thumb"><a href="#"><img src="images/mlo-wa-watoto/Donor-3.png" alt=""></a></div>
                             <a href="#"><h4>Youth Ambassadors Make a Difference</h4></a>
                             <div class="post-info"><i class="fa fa-calendar"></i>Jan 20, 2026</div>
                         </div>

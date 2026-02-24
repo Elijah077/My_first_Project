@@ -38,7 +38,7 @@
         <div class="row">
             <div class="col-md-6 col-sm-12">
                 <div class="img-box">
-                    <img src="images/resource/13.jpg" alt="Mlo Watoto Volunteers">
+                    <img src="images/mlo-wa-watoto/volunteer.png" alt="Mlo Watoto Volunteers">
                 </div>
             </div>
             <div class="col-md-6 col-sm-12">
