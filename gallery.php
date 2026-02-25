@@ -4,7 +4,7 @@
 <div class="inner-banner has-base-color-overlay text-center" style="background: url(images/background/4.jpg);">
     <div class="container">
         <div class="box">
-            <h1>Gallery With Text</h1>
+            <h1>Gallery</h1>
         </div>
     </div>
 </div>
@@ -57,12 +57,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item Children">
             <div class="item">
-                <img src="images/project/1.jpg" alt="">
+                <img src="images/mlo-wa-watoto/Nutrition_E_S.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/1.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/Nutrition_E_S.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -76,12 +76,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item Donate">
             <div class="item">
-                <img src="images/project/2.jpg" alt="">
+                <img src="images/mlo-wa-watoto/P_Demonstration.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/2.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/P_Demonstration.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -95,12 +95,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item humanity">
             <div class="item">
-                <img src="images/project/3.jpg" alt="">
+                <img src="images/mlo-wa-watoto/H_T_workshop.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/3.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/H_T_workshop.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -114,12 +114,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item Volunteer">
             <div class="item">
-                <img src="images/project/4.jpg" alt="">
+                <img src="images/mlo-wa-watoto/Y_N_A_Outreach.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/4.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/Y_N_A_Outreach.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -133,12 +133,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item humanity Donate">
             <div class="item">
-                <img src="images/project/5.jpg" alt="">
+                <img src="images/mlo-wa-watoto/N_Awareness_Day.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/5.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/N_Awareness_Day.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -152,12 +152,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item Children">
             <div class="item">
-                <img src="images/project/6.jpg" alt="">
+                <img src="images/mlo-wa-watoto/N_Counseling.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/6.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/N_Counseling.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -171,12 +171,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item humanity">
             <div class="item">
-                <img src="images/project/7.jpg" alt="">
+                <img src="images/mlo-wa-watoto/Content_Recording.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/7.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/Content_Recording.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -190,12 +190,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item Donate">
             <div class="item">
-                <img src="images/project/8.jpg" alt="">
+                <img src="images/mlo-wa-watoto/Resource_Distribution.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/8.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/Resource_Distribution.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>
@@ -209,12 +209,12 @@
 
         <article class="col-md-4 col-sm-6 col-xs-12 filter-item Volunteer">
             <div class="item">
-                <img src="images/project/9.jpg" alt="">
+                <img src="images/mlo-wa-watoto/S_Nutrition_Engagement.png" alt="">
                 <div class="overlay">
                     <div class="top">
                         <div class="box">
                             <div class="content">
-                                <a data-group="1" href="images/project/9.jpg" class="img-popup thm-btn">view project</a>
+                                <a data-group="1" href="images/mlo-wa-watoto/S_Nutrition_Engagement.png" class="img-popup thm-btn">view project</a>
                             </div>
                         </div>
                     </div>

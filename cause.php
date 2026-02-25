@@ -168,7 +168,7 @@
 
             <article class="item col-md-4 col-sm-6 col-xs-12">
                 <figure class="img-box">
-                    <img src="images/mlo-wa-watoto/H_G_Monitoring.png" alt="">
+                    <img src="images/mlo-wa-watoto/GB-monitoring.png" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 

@@ -35,7 +35,7 @@
   <body>
     <div class="boxed_wrapper">
       <div class="top-bar">
-        <div class="container">
+        <div class="container"> 
         <div class="clearfix">
           <div class="top-bar-text float_left">
             <button class="thm-btn donate-box-btn">Support a Child</button>
@@ -94,7 +94,7 @@
                       </li>
 
                       <li>
-                        <a href="volunteer">Join as Volunteer</a>
+                        <a href="volunteer">Volunteer</a>
                       </li>
 
                       <li>

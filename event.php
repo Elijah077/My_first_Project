@@ -36,7 +36,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/1.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Health_Camp.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -51,7 +51,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/2.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Donation_Drive.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -66,7 +66,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/3.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Tree_Planting.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -81,7 +81,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/4.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Fun_Fair.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -96,7 +96,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/5.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Art_Workshop.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -111,7 +111,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/6.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Nutrition _talk.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -126,7 +126,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/7.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Sports_Day.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -141,7 +141,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="item clearfix">
                             <figure class="img-holder">
-                                <a href="single-event.html"><img src="images/event/8.jpg" alt=""></a>
+                                <a href="single-event.html"><img src="images/mlo-wa-watoto/Story_time.png" alt=""></a>
                                 <div class="overlay2">
                                     <a href="single-event.html" class="thm-btn">read more</a>
                                 </div>
@@ -256,7 +256,7 @@
                         <div class="item">
                             <div class="img-column1">
                                 <figure class="img-holder">
-                                    <a href="single-event.html"><img src="images/resource/12.jpg" alt=""></a>
+                                    <a href="single-event.html"><img src="images/mlo-wa-watoto/Fun_run.png" alt=""></a>
                                 </figure>
                             </div>
                             <div class="text-column1">
@@ -269,7 +269,7 @@
                         <div class="item">
                             <div class="img-column1">
                                 <figure class="img-holder">
-                                    <a href="single-event.html"><img src="images/resource/12.jpg" alt=""></a>
+                                    <a href="single-event.html"><img src="images/mlo-wa-watoto/Story_session.png" alt=""></a>
                                 </figure>
                             </div>
                             <div class="text-column1">
@@ -288,10 +288,10 @@
                     </div>
                     <div class="facebook-feed">
                         <figure class="img-box">
-                            <img src="images/blog/feedbg.jpg" alt="">
+                            <img src="images/mlo-wa-watoto/facebook.png" alt="" style="opacity: .6;">
                             <div class="overlay">
                                 <div class="inner-box">
-                                    <div class="logo"><img src="images/logo/1.jpg" alt=""></div>
+                                    <!-- <div class="logo"><img src="images/logo/1.jpg" alt=""></div> -->
                                     <h4>MLO wa Watoto</h4>
                                     <div class="like">1.2K likes</div>
                                 </div>

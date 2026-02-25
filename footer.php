@@ -113,28 +113,17 @@
   </div>
 
   <!-- Footer Bottom -->
-  <div class="footer-bottom text-center">
-      <div class="container">
-        <p>&copy; 2026 Mlo Wa Watoto Foundation. All Rights Reserved. Designed with ❤️ to fight child malnutrition.</p>
-      </div>
-  </div>
+
 </footer>
 <!--Footer Bottom-->
 
 <section class="footer-bottom">
   <div class="container">
-    <div class="pull-left copy-text">
-      <p>
-        &copy; 2026 <a href="#">Mlo Wa Watoto</a>. All Rights Reserved. Powered with ❤️ by 
-        <a href="#">Mlo Wa Watoto Team</a>
-      </p>
-    </div>
-    <!-- /.pull-right -->
-
-    <div class="pull-right get-text">
-      <a href="#">Join Us Now!</a>
-    </div>
-    <!-- /.pull-left -->
+      <div class="footer-bottom text-center">
+          <div class="container">
+            <p>&copy; 2026 Mlo Wa Watoto Foundation. All Rights Reserved. Designed with ❤️ to fight child malnutrition.</p>
+          </div>
+      </div>
   </div>
   <!-- /.container -->
 </section>
@@ -261,6 +250,8 @@
     <!-- google map js -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRvBPo3-t31YFk588DpMYS6EqKf-oGBSI"></script> 
     <script src="js/gmap.js"></script>
+    
+
     
 
     <script id="map-script" src="js/default-map.js"></script>

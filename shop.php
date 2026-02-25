@@ -76,8 +76,8 @@
                     </div>
                     <div class="best-selling-area">
                         <div class="best_selling_item clearfix border">
-                            <div class="img_holder float_left">
-                                <a href="Shop-cart.php"><img src="images/shop/11.jpg" alt="Child Nutrition Book"></a>
+                            <div class="img_holder float_left" style=" margin-bottom:5px;">
+                                <a href="Shop-cart.php"><img src="images/mlo-wa-watoto/Child_N_Guide.png" alt="Child Nutrition Book"></a>
                             </div>
                             <div class="text float_left">
                                 <a href="Shop-cart.php"><h4>Child Nutrition Guide</h4></a>
@@ -93,8 +93,8 @@
                         </div>
 
                         <div class="best_selling_item clearfix border">
-                            <div class="img_holder float_left">
-                                <a href="Shop-cart.php"><img src="images/shop/12.jpg" alt="Educational Kit"></a>
+                            <div class="img_holder float_left" style=" margin-bottom:5px;">
+                                <a href="Shop-cart.php"><img src="images/mlo-wa-watoto/L_Kit_C.png" alt="Educational Kit"></a>
                             </div>
                             <div class="text float_left">
                                 <a href="Shop-cart.php"><h4>Learning Kit for Children</h4></a>
@@ -110,8 +110,8 @@
                         </div>
 
                         <div class="best_selling_item clearfix">
-                            <div class="img_holder float_left">
-                                <a href="Shop-cart.php"><img src="images/shop/13.jpg" alt="Donation Pack"></a>
+                            <div class="img_holder float_left" style=" margin-bottom:5px;">
+                                <a href="Shop-cart.php"><img src="images/mlo-wa-watoto/Child_Donation_P.png" alt="Donation Pack"></a>
                             </div>
                             <div class="text float_left">
                                 <a href="Shop-cart.php"><h4>Donation Pack for Children</h4></a>
@@ -152,7 +152,7 @@
                 <div class="column col-md-4 col-sm-6 col-xs-12">
                     <div class="single-shop-item">
                         <div class="img-box">
-                            <a href="shop-cart.html"><img src="images/shop/1.jpg" alt="Child Nutrition Book"></a>
+                            <a href="shop-cart.html"><img src="images/mlo-wa-watoto/Child_Nutrition_Guide.png" alt="Child Nutrition Book"></a>
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
@@ -180,7 +180,7 @@
                 <div class="column col-md-4 col-sm-6 col-xs-12">
                     <div class="single-shop-item">
                         <div class="img-box">
-                            <a href="shop-cart.html"><img src="images/shop/2.jpg" alt="Educational Kit"></a>
+                            <a href="shop-cart.html"><img src="images/mlo-wa-watoto/Learning_Kit_C.png" alt="Educational Kit"></a>
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
@@ -208,7 +208,7 @@
                 <div class="column col-md-4 col-sm-6 col-xs-12">
                     <div class="single-shop-item">
                         <div class="img-box">
-                            <a href="shop-cart.html"><img src="images/shop/3.jpg" alt="Donation Pack"></a>
+                            <a href="shop-cart.html"><img src="images/mlo-wa-watoto/Children_Donation_P.png" alt="Donation Pack"></a>
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">

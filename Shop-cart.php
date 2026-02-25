@@ -55,7 +55,7 @@
                     <tr>
                         <td colspan="2" class="prod-column">
                             <div class="column-box">
-                                <figure class="prod-thumb"><a href="#"><img src="images/shop/11.jpg" alt="School Supplies Kit"></a></figure>
+                                <figure class="prod-thumb"><a href="#"><img src="images/mlo-wa-watoto/School_Supplies .png" alt="School Supplies Kit"></a></figure>
                                 <h3 class="prod-title padd-top-20">School Supplies Kit</h3>
                             </div>
                         </td>
@@ -77,7 +77,7 @@
                     <tr>
                         <td colspan="2" class="prod-column">
                             <div class="column-box">
-                                <figure class="prod-thumb"><a href="#"><img src="images/shop/12.jpg" alt="Children’s Story Book"></a></figure>
+                                <figure class="prod-thumb"><a href="#"><img src="images/mlo-wa-watoto/Story_Book.png" alt="Children’s Story Book"></a></figure>
                                 <h3 class="prod-title padd-top-20">Children’s Story Book</h3>
                             </div>
                         </td>

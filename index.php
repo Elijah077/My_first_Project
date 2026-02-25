@@ -243,7 +243,7 @@
               >
                 <div class="slide-content-box">
                   <div class="button">
-                    <a class="thm-btn style-3" href="cause.html">Donate Now</a>
+                    <a class="thm-btn style-3" href="cause.php">Donate Now</a>
                   </div>
                 </div>
               </div>
