@@ -11,7 +11,7 @@
                 data-bgposition="top center"
                 data-bgrepeat="no-repeat" 
                 height="888"
-                src="images/slider/1.jpg"
+                src="images/mlo-wa-watoto/childs-reach.png"
                 width="1920"
               />
 
@@ -94,7 +94,7 @@
                 data-bgposition="top center"
                 data-bgrepeat="no-repeat"
                 height="580"
-                src="images/slider/2.jpg"
+                src="images/mlo-wa-watoto/N_k_mother.png"
                 width="1920"
               />
 
@@ -174,7 +174,7 @@
                 data-bgposition="top center"
                 data-bgrepeat="no-repeat"
                 height="580"
-                src="images/slider/3.jpg"
+                src="images/mlo-wa-watoto/tech&community.png"
                 width="1920"
               />
 
